@@ -1,7 +1,5 @@
 ### Hi there ! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Frapl Flutter App.
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about Flutter or Andorid or any tech related stuff.
