@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🧠 Product Manager — I find the problem worth solving, then won't stop till it's solved
+- 🧠 Product Manager — I find the problem worth solving and relentlessly drive them to resolution
 - 🤖 Building in the AI space — currently focused on [Awe](https://getawe.in/)
 - 📱 Also shipped [Skyline](https://play.google.com/store/apps/details?id=com.feelsgood.Weather) — a clean weather app for Android
 - 🌿 Mountain trekker. Space enthusiast. Loves being in nature.
